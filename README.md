@@ -1,1 +1,4 @@
-# actividad-github-carlos-villela
+**Nombre:** Carlos Villela  
+**Grupo:** [Tu Grupo]  
+**Materia:** Ingeniería de Software  
+**Descripción:** Repositorio creado para practicar el flujo de trabajo en Git.
