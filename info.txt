@@ -1,0 +1,4 @@
+Nombre del alumno: Carlos Villela
+Fecha: 22 de abril de 2026
+Objetivo: Practicar el flujo de trabajo en Git.
+¿Qué es un Pull Request?: Es una propuesta para integrar cambios desde una rama a otra.
